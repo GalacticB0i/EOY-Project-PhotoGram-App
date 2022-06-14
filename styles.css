@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    font-size: 65px;
+    color:#3AFE00;
+}
+
+h3{
+    font-size:25px;
+}
+  
+
+.posts {
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    margin-top: auto;
+    text-align: center;
+    border:black dashed 7px;
+    padding:10px;
+}
+
+img {
+    width: 200px;
+    border:white double 10px; 
+}
+
+.inputclass {
+    display: flex;
+    justify-content: center;
+    color:blue;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 300px;
+    text-align: center;
+}
+
+
+.likes{
+    border: 5px black dotted;
+    border-radius: 10px;
+    padding:10px;
+    position:absolute;
+    font-family:'Arvo', serif;
+}
+
+.liked-photo{
+    position:relative;
+}
+
+.bell {
+    width:100px;
+    padding:1px;
+    border:solid white 1px;
+}
+
+body{
+    background-color:#928F52;
+}
+
